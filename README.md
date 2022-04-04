@@ -1,0 +1,1 @@
+Basic React app structure including Webpack, Typescript, PostCSS + CSS Modules and Jest + React Testing Library.
